@@ -1,0 +1,27 @@
+{
+  "name": "meim",
+  "version": "0.0.2",
+  "description": "Mean improved",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/d8ta/meim.git"
+  },
+  "keywords": [
+    "Mean",
+    "Exercise",
+    "WebOP"
+  ],
+  "author": "Daniel Raudschus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d8ta/meim/issues"
+  },
+  "homepage": "https://github.com/d8ta/meim#readme",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
